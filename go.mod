@@ -1,4 +1,4 @@
-module github.com/dovranJorayev/workspace_lib
+module github.com/dovranJorayev/workspace_lib/v2
 
 go 1.25.0
 
