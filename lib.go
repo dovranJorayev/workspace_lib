@@ -2,6 +2,7 @@
 package workspace_lib
 
 // AddNums returns sum of two finite numbers.
+// https://www.mathsisfun.com/numbers/addition.html
 func AddNums(a, b int) int {
 	return a + b
 }
